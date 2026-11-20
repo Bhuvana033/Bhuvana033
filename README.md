@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Bhuvana033
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a QA Engineer with 4 years of experience in Manual Testing, passionate about building digital experiences and exploring AI-powered creativity.
 
-<!---
-Bhuvana033/Bhuvana033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I Do:
+
+Manual QA Testing & Software Quality Assurance
+Website Design & Development (AI-assisted)
+AI Video Creation & Editing
+AI Voice-over Creation
+Creative Digital Content
+
+Passionate about quality, creativity and continuous learning.
